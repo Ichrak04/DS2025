@@ -1,3 +1,15 @@
+# Ichrak Douiou
+
+<img src="ichak.jpg" style="height:300px;margin-right:300px; float:left; border-radius:10px;"/>
+
+
+**Numéro d'étudiant** : 240
+
+**Classe** : CAC1
+
+<br clear="left"/>
+
+---
 # Compte Rendu - Analyse Exploratoire des Données (EDA) du Dataset Hotel Booking Reservation
 
 ## Introduction
