@@ -1,11 +1,14 @@
 
 # Ichrak Douiou
 
-**Numéro d'étudiant** : 240
+Numéro d'étudiant : 240
 
-**Classe** : CAC1
+Classe : CAC1
+
+<img src="ichrak.jpg" style="height:464px;margin-right:432px"/>
 
 <br clear="left"/>
+
 # **Compte rendu d’analyse : Modélisation et évaluation**
 
 ## **1. Introduction**
