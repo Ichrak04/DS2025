@@ -1,3 +1,15 @@
+# Ichrak Douiou
+
+**Numéro d'étudiant** : 24010390
+
+**Classe** : CAC1
+
+
+<img src="ichrak.jpg" style="height:464px;margin-right:432px"/>
+
+<br clear="left"/>
+
+---
 📘 GRAND GUIDE : ANATOMIE D'UN PROJET DATA SCIENCE
 Ce document décortique chaque étape du cycle de vie d'un projet de Machine Learning appliqué au jeu de données “Diabetes” fourni dans le notebook joint. Il est conçu pour passer du niveau "débutant qui copie du code" au niveau "ingénieur qui comprend les mécanismes internes".
 
